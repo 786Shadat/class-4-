@@ -1,0 +1,29 @@
+h1{ color:rgb(128, 117, 117);
+background-color:#eeeeee; text-align:center; 
+color: black; text-shadow: 6px 6px 6px rgb(214, 230, 3),+5px +5px +5px green,-4px -4px 4px red;
+font-size:70px; text-decoration:line-through;}
+
+/* 2nd */
+
+p {color:rgb(189, 72, 72); background-color:rgb(221, 209, 209);font-size:20px; }
+
+/* 3rd step */
+
+     #MOHAMMAD{ color:darkblue;background-color:burlywood; padding: 30px;
+      text-align:center; text-transform:uppercase; letter-spacing:4px;}
+
+      /*/4th step/*/
+      .who { color:rgb(0, 0, 0); background-color: cadetblue; word-spacing: 5px;
+         font-size:20px; width: 100%px; height: 200%px;  text-align:center;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         text-decoration: underline;
+      }
+
+         /* 5th step */
+
+         div.a{ text-indent: 70px; color:blue; background-color:aquamarine; 
+            text-indent: 2.6; word-spacing: 5px; text-align:justify;}
+
+            /* 6th step */
+
+            div.b{ color:rgb(21, 73, 25); text-align-last:right; font-size: 50px;}
